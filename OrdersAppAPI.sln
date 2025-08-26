@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersAppAPI", "OrdersAppAPI\OrdersAppAPI.csproj", "{BF16EB2E-5C54-4388-97CD-57B94F105549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersAppUI_New", "..\OrdersAppUI_New\OrdersAppUI_New.csproj", "{4FA84562-08CE-9ABE-CF5D-3CDCC0D68AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF16EB2E-5C54-4388-97CD-57B94F105549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF16EB2E-5C54-4388-97CD-57B94F105549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF16EB2E-5C54-4388-97CD-57B94F105549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF16EB2E-5C54-4388-97CD-57B94F105549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA84562-08CE-9ABE-CF5D-3CDCC0D68AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA84562-08CE-9ABE-CF5D-3CDCC0D68AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA84562-08CE-9ABE-CF5D-3CDCC0D68AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA84562-08CE-9ABE-CF5D-3CDCC0D68AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A82CD7D3-F75F-4199-87F2-5269A0450757}
+	EndGlobalSection
+EndGlobal

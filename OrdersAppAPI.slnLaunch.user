@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "OrdersAppAPI\\OrdersAppAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\OrdersAppUI_New\\OrdersAppUI_New.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
